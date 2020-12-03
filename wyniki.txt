@@ -1,0 +1,58 @@
+(./zadanie 2000 -T0 -P1 && ./zadanie 2000 -T0 -P2 && ./zadanie 2000 -T0 -P3 && ./zadanie 2000 -T0 -P4 && ./zadanie 2000 -T1 -P1 && ./zadanie 2000 -T1 -P2 && ./zadanie 2000 -T1 -P3 && ./zadanie 2000 -T1 -P4) >> wyniki.txt
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    NIE
+Ilosc watkow:     1
+Czas wykonywania: 48.6181 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    NIE
+Ilosc watkow:     2
+Czas wykonywania: 26.6821 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    NIE
+Ilosc watkow:     3
+Czas wykonywania: 19.412 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    NIE
+Ilosc watkow:     4
+Czas wykonywania: 14.4233 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    TAK
+Ilosc watkow:     1
+Czas wykonywania: 5.25273 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    TAK
+Ilosc watkow:     2
+Czas wykonywania: 2.86559 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    TAK
+Ilosc watkow:     3
+Czas wykonywania: 2.04332 s
+===========================================================
+
+===========================================================
+Rozmiar macierzy: 2000x2000
+Transponowana:    TAK
+Ilosc watkow:     4
+Czas wykonywania: 1.78905 s
+===========================================================
+
